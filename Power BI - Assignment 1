@@ -1,0 +1,56 @@
+What do you mean by BI? Explain.
+
+BI stands for Business Intelligence. It refers to the technologies, processes, and strategies used by organizations to collect, analyze, and present business information. The primary goal of BI is to help companies make informed decisions by providing insights into their operations, performance, and market trends. 
+
+
+How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+Power BI is a popular Business Intelligence (BI) tool developed by Microsoft. It is designed to help organizations and analysts collect, analyze, and visualize data to make informed business decisions. Power BI offers several features and capabilities that assist in the BI process and empower analysts
+
+
+Explain Descriptive analytics?
+
+Descriptive analytics is the branch of data analysis that focuses on summarizing historical data to gain insights into past events and trends. Its primary goal is to answer the question: "What happened?" This form of analytics provides a fundamental understanding of how things have occurred and serves as the foundation for more advanced types of analytics, such as predictive and prescriptive analytics.
+
+
+Explain Predictive analytics?
+
+Predictive analytics is a branch of advanced analytics that leverages historical data, statistical algorithms, and machine learning techniques to make predictions about future events or outcomes. Unlike descriptive analytics, which focuses on summarizing past data, predictive analytics aims to answer questions like "What is likely to happen next?" or "What will the future look like based on current and historical data?" It helps organizations and individuals make informed decisions and take proactive actions by forecasting potential scenarios and their associated probabilities.
+
+
+Explain prescriptive analytics?
+
+Prescriptive analytics is the most advanced form of analytics that builds upon descriptive and predictive analytics. While descriptive analytics summarizes historical data, and predictive analytics makes predictions about future events, prescriptive analytics goes a step further by not only predicting outcomes but also recommending actions to optimize those outcomes. In essence, it provides answers to the question: "What should we do about it?"
+
+
+Write five real-life questions that PowerBi can solve.
+
+Power BI is a versatile Business Intelligence tool that can be used to solve a wide range of real-life questions and business challenges. Here are five examples of questions that Power BI can help address:
+
+Sales Performance Analysis:
+
+How have our sales revenues changed over the past year, and what are the key factors contributing to these changes?
+Which products or regions are driving our sales growth, and which ones are underperforming?
+Can we identify sales trends and seasonality patterns to optimize inventory management and marketing strategies?
+Customer Segmentation and Behavior:
+
+What are the demographics and characteristics of our most valuable customers?
+How do customers from different segments interact with our website or mobile app, and how can we improve their experience?
+Are there specific customer behaviors or patterns that predict customer churn, and how can we reduce churn rates?
+Financial Analysis:
+
+What is the current financial health of our organization, including key metrics such as profitability, liquidity, and solvency?
+How are expenses distributed across different departments, and can we identify cost-saving opportunities?
+What is the impact of different pricing strategies on our profit margins, and which strategy is the most effective?
+Inventory and Supply Chain Optimization:
+
+What is the optimal inventory level for each product in our supply chain to minimize costs while ensuring product availability?
+Are there any supply chain bottlenecks or delays, and how can we address them to improve delivery times?
+Can we use predictive analytics to forecast demand and optimize procurement and production schedules?
+Employee Performance and HR Analytics:
+
+How do employee engagement and performance metrics correlate, and can we identify factors that influence productivity and job satisfaction?
+What is the turnover rate in our organization, and can we identify patterns or reasons behind employee attrition?
+Are there opportunities to optimize workforce planning, training, or recruitment strategies based on historical HR data?
+
+
